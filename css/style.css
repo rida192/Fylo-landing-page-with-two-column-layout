@@ -436,6 +436,10 @@ footer .container{
     display: flex;
     align-items: center;
 }
+.phone img,
+.email img{
+    margin-right: 1.5rem;
+}
 @media (max-width:767px){
     .phone{
         justify-content: center;
